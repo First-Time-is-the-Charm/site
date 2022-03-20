@@ -17,3 +17,9 @@
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/voltmaister/text.git
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/voltmaister/_gallery.git
+[submodule "images"]
+	path = images
+	url = https://github.com/voltmaister/images.git
