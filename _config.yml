@@ -235,6 +235,9 @@ collections:
   case-study:
     output: true
     permalink: /case-study/:path/
+  gallery:
+    output: true
+    permalink: /gallery/:path/
   header:
     output: false
 
