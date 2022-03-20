@@ -8,7 +8,7 @@
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/First-Time-is-the-Charm/extras.git
+	url = https://github.com/epidrome/extras.git
 	branch = master
 [submodule "_quotes"]
 	path = _quotes
@@ -24,4 +24,4 @@
 	branch = master
 [submodule "_includes/text"]
 	path = _includes/text
-	url = https://github.com/First-Time-is-the-Charm/text.git
+	url = https://github.com/epidrome/text.git
