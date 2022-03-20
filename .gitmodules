@@ -1,19 +1,19 @@
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/First-Time-is-the-Charm/extras.git
+	url = https://github.com/voltmaister/extras.git
 	branch = master
 [submodule "_quotes"]
 	path = _quotes
-	url = https://github.com/First-Time-is-the-Charm/_quotes.git
+	url = https://github.com/voltmaister/_quotes.git
 	branch = master
 [submodule "_notes"]
 	path = _notes
-	url = https://github.com/First-Time-is-the-Charm/notes.git
+	url = https://github.com/voltmaister/notes.git
 	branch = master
 [submodule "_bibliography"]
 	path = _bibliography
-	url = https://github.com/First-Time-is-the-Charm/bibliography.git
+	url = https://github.com/voltmaister/bibliography.git
 	branch = master
 [submodule "_includes/text"]
 	path = _includes/text
-	url = https://github.com/First-Time-is-the-Charm/text.git
+	url = https://github.com/voltmaister/text.git
