@@ -25,5 +25,6 @@ events:
   - eclipse-ide
   - processing-ide 
   - learntomod
+  - cobol1
   - zxspectrum
 ---
